@@ -5,7 +5,7 @@ from email.message import EmailMessage
 import os
 
 # List of product names to ignore
-ignored_products = [ "Bowser Bee Lip Balm"]
+ignored_products = ["Beekeeping: Explore the Marvelous World of Honeybees (Signed Copy)","Bowser Bee Lip Balm"]
 url = "https://bowserbeehoney.square.site/app/store/api/v28/editor/users/139609083/sites/263231814605665516/products"
 
 payload = {}
